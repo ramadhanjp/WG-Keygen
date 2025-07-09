@@ -19,3 +19,6 @@ Catatan Keamanan:
 Semua proses pembuatan kunci dilakukan secara lokal di perangkat pengguna.
 Tidak ada data yang dikirim ke server eksternal.
 Pastikan menjaga kerahasiaan kunci privat Anda.
+
+![Screenshot 2025-07-09 184651](https://github.com/user-attachments/assets/ae91ea3d-75cd-484b-94a3-e6240bd65868)
+
