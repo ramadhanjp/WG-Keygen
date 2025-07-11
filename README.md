@@ -45,4 +45,7 @@ cd WG-Keygen
 python3 app.py
 ```
 
+## Dukungan & Kontak
+Jika Anda memiliki pertanyaan, masalah, atau permintaan fitur, silakan buka issue di repositori ini atau hubungi saya melalui:
 
+📧 Email: ramadhanjpp@gmail.com
