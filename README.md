@@ -3,9 +3,7 @@
 
 > Aplikasi sederhana untuk menghasilkan pasangan kunci privat dan publik WireGuard secara cepat dan aman.
 
-![License](https://img.shields.io/github/license/username/wg-key-generator )
-![Version](https://img.shields.io/github/v/tag/username/wg-key-generator?label=version)
-![Build]( https://img.shields.io/github/workflow/status/username/wg-key-generator/CI )
+![Wireguard])
 
 ## Deskripsi
 
