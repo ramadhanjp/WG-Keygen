@@ -13,7 +13,7 @@ Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey
 
 
 
-## 🔧 Fitur Utama
+## Fitur Utama
 
 - ✅ Generate kunci privat acak berkualitas tinggi  
 - ✅ Otomatis generate private key dan public key  
@@ -31,7 +31,7 @@ Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey
 
 
 
-## 📦 Instalasi
+## Instalasi
 
 ### Untuk Pengguna:
 
