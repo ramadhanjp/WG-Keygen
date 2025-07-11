@@ -30,19 +30,12 @@ Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey
 
 
 
-## 🧰 Teknologi yang Digunakan
-
-- **Backend:** Menggunakan `wireguard-tools` atau library kriptografi lokal (misalnya libsodium, cryptography, dll.)
-- **Frontend:** _(Sesuaikan dengan teknologi yang dipakai, contoh: Python + Tkinter, Electron, Flutter, dll.)_
-- **Build Tool:** _(Opsional: PyInstaller, Webpack, dll.)_
-
-
 
 ## 📦 Instalasi
 
 ### Untuk Pengguna:
 
-Unduh versi terbaru dari halaman [Releases](https://github.com/username/wg-key-generator/releases ).
+Unduh versi terbaru dari halaman [Releases](https://github.com/ramadhanjp/WG-Keygen/releases).
 
 ### Untuk Developer / Pengembangan:
 
