@@ -1,9 +1,8 @@
 
 # WG Keygen
-
 > Aplikasi sederhana untuk menghasilkan pasangan kunci privat dan publik WireGuard secara cepat dan aman.
 
-![Wireguard]
+
 
 
 ## Deskripsi
