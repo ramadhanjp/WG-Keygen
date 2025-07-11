@@ -11,7 +11,7 @@
 
 Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey`, aplikasi ini memberikan GUI yang ramah pengguna agar pengguna awam maupun profesional dapat dengan mudah membuat kunci tanpa harus bersentuhan langsung dengan terminal.
 
----
+
 
 ## 🔧 Fitur Utama
 
@@ -22,13 +22,13 @@ Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey
 - 🌐 GUI pengguna yang bersih dan responsif  
 - 🔒 Semua proses dilakukan secara lokal – tidak ada data yang dikirim ke server  
 
----
+
 
 ## GUI Preview
 
 <img width="1129" height="856" alt="Screenshot 2025-07-09 184651" src="https://github.com/user-attachments/assets/f7d31f50-69e3-4289-bd12-5fb4dd82d49f" />
 
----
+
 
 ## 🧰 Teknologi yang Digunakan
 
@@ -36,7 +36,7 @@ Alih-alih menggunakan perintah baris perintah seperti `wg genkey` dan `wg pubkey
 - **Frontend:** _(Sesuaikan dengan teknologi yang dipakai, contoh: Python + Tkinter, Electron, Flutter, dll.)_
 - **Build Tool:** _(Opsional: PyInstaller, Webpack, dll.)_
 
----
+
 
 ## 📦 Instalasi
 
