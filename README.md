@@ -40,9 +40,9 @@ Unduh versi terbaru dari halaman [Releases](https://github.com/ramadhanjp/WG-Key
 ### Untuk Developer / Pengembangan:
 
 ```bash
-git clone https://github.com/username/wg-key-generator.git 
-cd wg-key-generator
-npm install  # atau pip install -r requirements.txt dsb., tergantung teknologi
+git clone https://github.com/ramadhanjp/WG-Keygen.git
+cd WG-Keygen
+python3 app.py
+```
 
-![Screenshot 2025-07-09 184651](https://github.com/user-attachments/assets/ae91ea3d-75cd-484b-94a3-e6240bd65868)
 
